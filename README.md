@@ -84,6 +84,8 @@ You can define custom Regex patterns to match any API structure.
 
 * *Note: Uncheck a rule in the settings table to temporarily disable it.*
 
+https://github.com/user-attachments/assets/5e5bba9c-881c-4c89-8641-dcd9e9377c9f
+
 ---
 
 ## Tech Stack
